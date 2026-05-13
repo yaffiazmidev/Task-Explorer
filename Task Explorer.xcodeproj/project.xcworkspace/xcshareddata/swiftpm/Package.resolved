@@ -1,0 +1,15 @@
+{
+  "originHash" : "bdd95466794e16eb66e8c1739cd3523532debc9cb3f55b754ab07925cbfa2393",
+  "pins" : [
+    {
+      "identity" : "dennetworking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yaffiazmidev/DENNetworking",
+      "state" : {
+        "revision" : "dd6960b4661eb77cd4172b9949137ec9f51f07f8",
+        "version" : "1.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
